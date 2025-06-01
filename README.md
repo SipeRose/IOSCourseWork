@@ -59,4 +59,15 @@
   <br>
   <br>
   <img src="./Danger Repeller/Examples/11.png" height="120">
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
+
+
+
+<div align="center">
+  <img src="./Danger Repeller/Examples/Logos/TBANK.png" height="50">
+  <img src="./Danger Repeller/Examples/Logos/BMSTU.png" height="50">
 </div>
